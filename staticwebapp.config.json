@@ -47,7 +47,7 @@
       {
         "route": "/about*",
         "redirect": "/about",
-        "statusCode": 200
+        "statusCode": 301
       }
     ],
     "navigationFallback": {
