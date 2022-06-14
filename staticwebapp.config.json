@@ -41,8 +41,8 @@
         "statusCode": 404
       },
       {
-        "route": "/logout",
-        "redirect": "/.auth/logout"
+        "route": "/detail",
+        "redirect": "/about"
       },
       {
         "route": "/info",
