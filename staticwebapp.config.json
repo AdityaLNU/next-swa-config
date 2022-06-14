@@ -45,7 +45,7 @@
         "redirect": "/.auth/logout"
       },
       {
-        "route": "/about*",
+        "route": "/info",
         "redirect": "/about",
         "statusCode": 301
       }
