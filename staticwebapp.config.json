@@ -41,6 +41,10 @@
         "statusCode": 404
       },
       {
+        "route": "/profile",
+        "statusCode": 403
+      },
+      {
         "route": "/logout",
         "redirect": "/.auth/logout"
       },
